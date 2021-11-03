@@ -12,5 +12,5 @@ The full dataset and dataset description retrieved from the UCI Machine Learning
 https://archive.ics.uci.edu/ml/datasets/Myocardial+infarction+complications
 
 Finally, to view the Jupyter notebook in a way that allows you to navigate the Table of Contents, access nbviewer through this link:
-https://nbviewer.org/github/lucasejones/Predicting-Heart-Attack-Complications-And-Outcomes/blob/main/Predicting%20Heart%20Attack%20Outcomes.ipynb#Conclusion
+https://nbviewer.org/github/lucasejones/Predicting-Heart-Attack-Complications-And-Outcomes/blob/main/Predicting%20Heart%20Attack%20Outcomes.ipynb
 

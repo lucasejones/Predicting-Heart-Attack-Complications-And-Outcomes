@@ -1,6 +1,5 @@
 # Predicting Heart Attack Complications And Outcomes
 
-
 Hello, and welcome! In this project, the goal is to accurately predict what will happen to someone who has been hospitalized from having a heart attack.
 
 As noted in the dataset's description, the prediction of complications from myocardial infarction (heart attack) is both historically challenging and important. Specialists can struggle to accurately predict the development and severity of these complications, leading to worse health, or even death. If we could understand more about the relationships between past patients and the outcomes of their heart attacks, then in theory we could make medical decisions for new patients that anticipate, and hopefully avoid, future suffering.

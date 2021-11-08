@@ -2,7 +2,7 @@
 
 Hello, and welcome! 
 
-This project is a demonstration of the entire machine learning process, applied to a data set seeking to predict what will happen to someone who has recently suffered a heart attack. The major libraries used are pandas, numpy, matplotlib, seaborn, and sklearn. 
+This project is a demonstration of the entire machine learning process, applied to a dataset seeking to predict what will happen to someone who has recently suffered a heart attack. The major libraries used are pandas, numpy, matplotlib, seaborn, and sklearn. 
 
 The work performed here includes data cleaning, feature engineering/selection, and model tuning/selection. I've also provided visualizations to help understand the data, and plotted the results of various models. I've taken care to provide explanations of my reasoning for different decisions; this project is written in a way that ideally will be accessible to any audience. The less technically inclined should be able to follow the written explanations and visualizations, while the more technically inclined should be able to understand the code as well. 
 

@@ -1,16 +1,18 @@
 # Predicting Heart Attack Complications And Outcomes
 
-Hello, and welcome! In this project, the goal is to accurately predict what will happen to someone who has been hospitalized from having a heart attack.
+Hello, and welcome! 
 
-As noted in the dataset's description, the prediction of complications from myocardial infarction (heart attack) is both historically challenging and important. Specialists can struggle to accurately predict the development and severity of these complications, leading to worse health, or even death. If we could understand more about the relationships between past patients and the outcomes of their heart attacks, then in theory we could make medical decisions for new patients that anticipate, and hopefully avoid, future suffering.
+This project is a demonstration of the entire machine learning process, applied to a data set seeking to predict what will happen to someone who has recently suffered a heart attack. The major libraries used are pandas, numpy, matplotlib, seaborn, and sklearn. 
 
-The dataset we'll be working with was created by individuals from the Krasnoyarsk State Medical University in Russia, and University of Leicester in England.
+The work performed here includes data cleaning, feature engineering and selection, model tuning and selection. I've also provided visualizations to help understand the data, and plotted the results of various models. I've taken care to provide explanations of my reasoning for different decisions; this project is written in a way that ideally will be accessible to any audience. The less technically inclined should be able to follow the written explanations and visualizations, while the more technically inclined should be able to understand the code as well. 
 
-It's worth noting that the patients in this dataset are not a representative sample of the global population, but a 1700-person-large sample from 1992-1995 from one location. If we had data about other demographics at other times, we may have a more generalized understanding of heart attack outcomes, but we can still continue with this distinction in mind.
+I've made an effort to structure this work in an organized way, with clickable links to sections in the table of contents (see link below). 
+
+Ultimately, I was surprised to find that whether someone had just arrived to the hospital, or had been there for three days, the models explored here could predict with almost the same accuracy how many complications a patient was likely to experience. The idea that this type of analysis could be used proactively to potentially save someone's life was exciting, and I encourage any thoughts or feedback as to how to improve the work here.
+
 
 The full dataset and dataset description retrieved from the UCI Machine Learning Repository can be found here:
 https://archive.ics.uci.edu/ml/datasets/Myocardial+infarction+complications
 
 Finally, to view the Jupyter notebook in a way that allows you to navigate the Table of Contents, access nbviewer through this link:
 https://nbviewer.org/github/lucasejones/Predicting-Heart-Attack-Complications-And-Outcomes/blob/main/Predicting%20Heart%20Attack%20Complications%20and%20Outcomes.ipynb
-

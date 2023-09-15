@@ -9,9 +9,9 @@ https://nbviewer.org/github/lucasejones/Predicting-Heart-Attack-Complications-An
 
 The work performed here includes data cleaning, feature engineering/selection, and model tuning/selection. I've also provided visualizations to help understand the data, and plotted the results of various models. I've taken care to provide explanations of my reasoning for different decisions; this project is written in a way that ideally will be accessible to any audience. The less technically inclined should be able to follow the written explanations and visualizations, while the more technically inclined should be able to understand the code as well. 
 
-I've made an effort to structure this work in an organized way, with clickable links to sections in the table of contents (see link below). 
+I've made an effort to structure this work in an organized way, with clickable links to sections in the table of contents (see link above). 
 
-Ultimately, I was surprised to find that whether someone had just arrived to the hospital, or had been there for three days, the models explored here could predict with almost the same accuracy how many complications a patient was likely to experience. The idea that this type of analysis could be used proactively to potentially save someone's life was exciting, and I encourage any thoughts or feedback as to how to improve the work here.
+Regarding the outcome of this project, I was surprised to find that whether someone had just arrived to the hospital, or had been there for three days, the models explored here could predict with almost the same accuracy how many complications a patient was likely to experience. The idea that this type of analysis could be used proactively to potentially save someone's life was exciting, and I encourage any thoughts or feedback as to how to improve the work here.
 
 
 The full dataset and dataset description retrieved from the UCI Machine Learning Repository can be found here:
